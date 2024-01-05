@@ -1,4 +1,4 @@
-# #100DaysOfCode with Python course
+  #100DaysOfCode with Python course
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/talkpython/100daysofcode-with-python-course.git/master)
 
 
@@ -46,3 +46,4 @@ We have broken the 100 days worth of coding into 33 3-day segments. As you can s
 ## Get the full course details
 
 Visit the full course page for all the details: [**talkpython.fm/100days**](https://talkpython.fm/100days?utm_source=github)
+ 
